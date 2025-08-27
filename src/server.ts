@@ -21,7 +21,7 @@ interface Player {
 let playersData: Player[] = [];
 
 try {
-    const dataPath = path.join(__dirname, 'players.json');
+    const dataPath = path.join(__dirname, '../fantasy-data.json');
     const rawData = fs.readFileSync(dataPath, 'utf8');
     playersData = JSON.parse(rawData);
     console.log(`Loaded ${playersData.length} players`);
