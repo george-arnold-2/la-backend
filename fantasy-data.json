@@ -1,0 +1,1100 @@
+[
+    {
+        "Name": "A.J. Brown",
+        "Position": "WR",
+        "Projected Points": 179,
+        "ID": "5859"
+    },
+    {
+        "Name": "Aaron Jones",
+        "Position": "RB",
+        "Projected Points": 159,
+        "ID": "4199"
+    },
+    {
+        "Name": "Adam Thielen",
+        "Position": "WR",
+        "Projected Points": 258,
+        "ID": "1689"
+    },
+    {
+        "Name": "Alvin Kamara",
+        "Position": "RB",
+        "Projected Points": 227,
+        "ID": "4035"
+    },
+    {
+        "Name": "Amari Cooper",
+        "Position": "WR",
+        "Projected Points": 167,
+        "ID": "2309"
+    },
+    {
+        "Name": "Amon-Ra St. Brown",
+        "Position": "WR",
+        "Projected Points": 172,
+        "ID": "7547"
+    },
+    {
+        "Name": "Ashton Jeanty",
+        "Position": "RB",
+        "Projected Points": 164,
+        "ID": "12527"
+    },
+    {
+        "Name": "Austin Ekeler",
+        "Position": "RB",
+        "Projected Points": 130,
+        "ID": "4663"
+    },
+    {
+        "Name": "Baker Mayfield",
+        "Position": "QB",
+        "Projected Points": 295,
+        "ID": "4892"
+    },
+    {
+        "Name": "BAL",
+        "Position": "DEF",
+        "Projected Points": 185,
+        "ID": "BAL"
+    },
+    {
+        "Name": "Bhayshul Tuten",
+        "Position": "RB",
+        "Projected Points": 110,
+        "ID": "12490"
+    },
+    {
+        "Name": "Bijan Robinson",
+        "Position": "RB",
+        "Projected Points": 282,
+        "ID": "9509"
+    },
+    {
+        "Name": "Bo Nix",
+        "Position": "QB",
+        "Projected Points": 326,
+        "ID": "11563"
+    },
+    {
+        "Name": "Braelon Allen",
+        "Position": "RB",
+        "Projected Points": 110,
+        "ID": "11576"
+    },
+    {
+        "Name": "Brandon Aiyuk",
+        "Position": "WR",
+        "Projected Points": 182,
+        "ID": "6803"
+    },
+    {
+        "Name": "Brandon Aubrey",
+        "Position": "K",
+        "Projected Points": 134,
+        "ID": "11533"
+    },
+    {
+        "Name": "Breece Hall",
+        "Position": "RB",
+        "Projected Points": 145,
+        "ID": "8155"
+    },
+    {
+        "Name": "Brian Thomas",
+        "Position": "WR",
+        "Projected Points": 200,
+        "ID": "11631"
+    },
+    {
+        "Name": "Brock Bowers",
+        "Position": "TE",
+        "Projected Points": 200,
+        "ID": "11604"
+    },
+    {
+        "Name": "Brock Purdy",
+        "Position": "QB",
+        "Projected Points": 360,
+        "ID": "8183"
+    },
+    {
+        "Name": "Bucky Irving",
+        "Position": "RB",
+        "Projected Points": 267,
+        "ID": "11584"
+    },
+    {
+        "Name": "BUF",
+        "Position": "DEF",
+        "Projected Points": 190,
+        "ID": "BUF"
+    },
+    {
+        "Name": "C.J. Stroud",
+        "Position": "QB",
+        "Projected Points": 324,
+        "ID": "9758"
+    },
+    {
+        "Name": "Caleb Williams",
+        "Position": "QB",
+        "Projected Points": 351,
+        "ID": "11560"
+    },
+    {
+        "Name": "Calvin Ridley",
+        "Position": "WR",
+        "Projected Points": 262,
+        "ID": "4981"
+    },
+    {
+        "Name": "Cam Little",
+        "Position": "K",
+        "Projected Points": 150,
+        "ID": "11786"
+    },
+    {
+        "Name": "Cam Skattebo",
+        "Position": "RB",
+        "Projected Points": 140,
+        "ID": "12481"
+    },
+    {
+        "Name": "Cameron Dicker",
+        "Position": "K",
+        "Projected Points": 130,
+        "ID": "8259"
+    },
+    {
+        "Name": "Cameron Ward",
+        "Position": "QB",
+        "Projected Points": 334,
+        "ID": "12522"
+    },
+    {
+        "Name": "CeeDee Lamb",
+        "Position": "WR",
+        "Projected Points": 242,
+        "ID": "6786"
+    },
+    {
+        "Name": "Chase Brown",
+        "Position": "RB",
+        "Projected Points": 243,
+        "ID": "9224"
+    },
+    {
+        "Name": "Chase McLaughlin",
+        "Position": "K",
+        "Projected Points": 129,
+        "ID": "6650"
+    },
+    {
+        "Name": "Chris Boswell",
+        "Position": "K",
+        "Projected Points": 135,
+        "ID": "1945"
+    },
+    {
+        "Name": "Chris Godwin",
+        "Position": "WR",
+        "Projected Points": 287,
+        "ID": "4037"
+    },
+    {
+        "Name": "Chris Olave",
+        "Position": "WR",
+        "Projected Points": 221,
+        "ID": "8144"
+    },
+    {
+        "Name": "Christian Kirk",
+        "Position": "WR",
+        "Projected Points": 225,
+        "ID": "4950"
+    },
+    {
+        "Name": "Christian McCaffrey",
+        "Position": "RB",
+        "Projected Points": 250,
+        "ID": "4034"
+    },
+    {
+        "Name": "Chuba Hubbard",
+        "Position": "RB",
+        "Projected Points": 236,
+        "ID": "7594"
+    },
+    {
+        "Name": "Colston Loveland",
+        "Position": "TE",
+        "Projected Points": 159,
+        "ID": "12517"
+    },
+    {
+        "Name": "Cooper Kupp",
+        "Position": "WR",
+        "Projected Points": 289,
+        "ID": "4039"
+    },
+    {
+        "Name": "Courtland Sutton",
+        "Position": "WR",
+        "Projected Points": 274,
+        "ID": "5045"
+    },
+    {
+        "Name": "D'Andre Swift",
+        "Position": "RB",
+        "Projected Points": 202,
+        "ID": "6790"
+    },
+    {
+        "Name": "Dak Prescott",
+        "Position": "QB",
+        "Projected Points": 371,
+        "ID": "3294"
+    },
+    {
+        "Name": "Dallas Goedert",
+        "Position": "TE",
+        "Projected Points": 138,
+        "ID": "5022"
+    },
+    {
+        "Name": "Dalton Kincaid",
+        "Position": "TE",
+        "Projected Points": 181,
+        "ID": "10236"
+    },
+    {
+        "Name": "Dameon Pierce",
+        "Position": "RB",
+        "Projected Points": 246,
+        "ID": "8129"
+    },
+    {
+        "Name": "Darnell Mooney",
+        "Position": "WR",
+        "Projected Points": 204,
+        "ID": "7090"
+    },
+    {
+        "Name": "Darren Waller",
+        "Position": "TE",
+        "Projected Points": 190,
+        "ID": "2505"
+    },
+    {
+        "Name": "Davante Adams",
+        "Position": "WR",
+        "Projected Points": 225,
+        "ID": "2133"
+    },
+    {
+        "Name": "David Montgomery",
+        "Position": "RB",
+        "Projected Points": 265,
+        "ID": "5892"
+    },
+    {
+        "Name": "David Njoku",
+        "Position": "TE",
+        "Projected Points": 159,
+        "ID": "4033"
+    },
+    {
+        "Name": "De'Von Achane",
+        "Position": "RB",
+        "Projected Points": 220,
+        "ID": "9226"
+    },
+    {
+        "Name": "Deebo Samuel",
+        "Position": "WR",
+        "Projected Points": 196,
+        "ID": "5872"
+    },
+    {
+        "Name": "DEN",
+        "Position": "DEF",
+        "Projected Points": 200,
+        "ID": "DEN"
+    },
+    {
+        "Name": "Derrick Henry",
+        "Position": "RB",
+        "Projected Points": 130,
+        "ID": "3198"
+    },
+    {
+        "Name": "DET",
+        "Position": "DEF",
+        "Projected Points": 150,
+        "ID": "DET"
+    },
+    {
+        "Name": "DeVonta Smith",
+        "Position": "WR",
+        "Projected Points": 183,
+        "ID": "7525"
+    },
+    {
+        "Name": "DJ Moore",
+        "Position": "WR",
+        "Projected Points": 185,
+        "ID": "4983"
+    },
+    {
+        "Name": "DK Metcalf",
+        "Position": "WR",
+        "Projected Points": 271,
+        "ID": "5846"
+    },
+    {
+        "Name": "Drake London",
+        "Position": "WR",
+        "Projected Points": 287,
+        "ID": "8112"
+    },
+    {
+        "Name": "Drake Maye",
+        "Position": "QB",
+        "Projected Points": 311,
+        "ID": "11564"
+    },
+    {
+        "Name": "Emeka Egbuka",
+        "Position": "WR",
+        "Projected Points": 220,
+        "ID": "12514"
+    },
+    {
+        "Name": "Evan Engram",
+        "Position": "TE",
+        "Projected Points": 162,
+        "ID": "4066"
+    },
+    {
+        "Name": "Evan McPherson",
+        "Position": "K",
+        "Projected Points": 151,
+        "ID": "7839"
+    },
+    {
+        "Name": "Garrett Wilson",
+        "Position": "WR",
+        "Projected Points": 172,
+        "ID": "8146"
+    },
+    {
+        "Name": "George Kittle",
+        "Position": "TE",
+        "Projected Points": 139,
+        "ID": "4217"
+    },
+    {
+        "Name": "George Pickens",
+        "Position": "WR",
+        "Projected Points": 273,
+        "ID": "8137"
+    },
+    {
+        "Name": "HOU",
+        "Position": "DEF",
+        "Projected Points": 175,
+        "ID": "HOU"
+    },
+    {
+        "Name": "Isaac Guerendo",
+        "Position": "RB",
+        "Projected Points": 153,
+        "ID": "11651"
+    },
+    {
+        "Name": "Isaac TeSlaa",
+        "Position": "WR",
+        "Projected Points": 188,
+        "ID": "12535"
+    },
+    {
+        "Name": "Isiah Pacheco",
+        "Position": "RB",
+        "Projected Points": 248,
+        "ID": "8205"
+    },
+    {
+        "Name": "J.J. McCarthy",
+        "Position": "QB",
+        "Projected Points": 353,
+        "ID": "11565"
+    },
+    {
+        "Name": "J.K. Dobbins",
+        "Position": "RB",
+        "Projected Points": 202,
+        "ID": "6806"
+    },
+    {
+        "Name": "Ja'Marr Chase",
+        "Position": "WR",
+        "Projected Points": 281,
+        "ID": "7564"
+    },
+    {
+        "Name": "Jack Bech",
+        "Position": "WR",
+        "Projected Points": 186,
+        "ID": "12483"
+    },
+    {
+        "Name": "Jacory Croskey-Merritt",
+        "Position": "RB",
+        "Projected Points": 225,
+        "ID": "12533"
+    },
+    {
+        "Name": "Jahmyr Gibbs",
+        "Position": "RB",
+        "Projected Points": 269,
+        "ID": "9221"
+    },
+    {
+        "Name": "Jake Bates",
+        "Position": "K",
+        "Projected Points": 139,
+        "ID": "11539"
+    },
+    {
+        "Name": "Jake Ferguson",
+        "Position": "TE",
+        "Projected Points": 185,
+        "ID": "8110"
+    },
+    {
+        "Name": "Jakobi Meyers",
+        "Position": "WR",
+        "Projected Points": 222,
+        "ID": "5947"
+    },
+    {
+        "Name": "Jalen Hurts",
+        "Position": "QB",
+        "Projected Points": 300,
+        "ID": "6904"
+    },
+    {
+        "Name": "James Conner",
+        "Position": "RB",
+        "Projected Points": 243,
+        "ID": "4137"
+    },
+    {
+        "Name": "James Cook",
+        "Position": "RB",
+        "Projected Points": 168,
+        "ID": "8138"
+    },
+    {
+        "Name": "Jameson Williams",
+        "Position": "WR",
+        "Projected Points": 236,
+        "ID": "8148"
+    },
+    {
+        "Name": "Jared Goff",
+        "Position": "QB",
+        "Projected Points": 332,
+        "ID": "3163"
+    },
+    {
+        "Name": "Jauan Jennings",
+        "Position": "WR",
+        "Projected Points": 246,
+        "ID": "7049"
+    },
+    {
+        "Name": "Javonte Williams",
+        "Position": "RB",
+        "Projected Points": 150,
+        "ID": "7588"
+    },
+    {
+        "Name": "Jaxon Smith-Njigba",
+        "Position": "WR",
+        "Projected Points": 217,
+        "ID": "9488"
+    },
+    {
+        "Name": "Jayden Daniels",
+        "Position": "QB",
+        "Projected Points": 342,
+        "ID": "11566"
+    },
+    {
+        "Name": "Jayden Higgins",
+        "Position": "WR",
+        "Projected Points": 196,
+        "ID": "12484"
+    },
+    {
+        "Name": "Jayden Reed",
+        "Position": "WR",
+        "Projected Points": 232,
+        "ID": "10222"
+    },
+    {
+        "Name": "Jaylen Waddle",
+        "Position": "WR",
+        "Projected Points": 213,
+        "ID": "7526"
+    },
+    {
+        "Name": "Jaylen Warren",
+        "Position": "RB",
+        "Projected Points": 200,
+        "ID": "8228"
+    },
+    {
+        "Name": "Jerome Ford",
+        "Position": "RB",
+        "Projected Points": 220,
+        "ID": "8143"
+    },
+    {
+        "Name": "Jerry Jeudy",
+        "Position": "WR",
+        "Projected Points": 246,
+        "ID": "6783"
+    },
+    {
+        "Name": "Joe Burrow",
+        "Position": "QB",
+        "Projected Points": 348,
+        "ID": "6770"
+    },
+    {
+        "Name": "Joe Mixon",
+        "Position": "RB",
+        "Projected Points": 185,
+        "ID": "4018"
+    },
+    {
+        "Name": "Jonathan Taylor",
+        "Position": "RB",
+        "Projected Points": 186,
+        "ID": "6813"
+    },
+    {
+        "Name": "Jordan Addison",
+        "Position": "WR",
+        "Projected Points": 262,
+        "ID": "9756"
+    },
+    {
+        "Name": "Jordan Love",
+        "Position": "QB",
+        "Projected Points": 296,
+        "ID": "6804"
+    },
+    {
+        "Name": "Jordan Mason",
+        "Position": "RB",
+        "Projected Points": 167,
+        "ID": "8408"
+    },
+    {
+        "Name": "Josh Allen",
+        "Position": "QB",
+        "Projected Points": 301,
+        "ID": "4984"
+    },
+    {
+        "Name": "Josh Downs",
+        "Position": "WR",
+        "Projected Points": 193,
+        "ID": "9500"
+    },
+    {
+        "Name": "Josh Jacobs",
+        "Position": "RB",
+        "Projected Points": 227,
+        "ID": "5850"
+    },
+    {
+        "Name": "Justin Fields",
+        "Position": "QB",
+        "Projected Points": 346,
+        "ID": "7591"
+    },
+    {
+        "Name": "Justin Herbert",
+        "Position": "QB",
+        "Projected Points": 312,
+        "ID": "6797"
+    },
+    {
+        "Name": "Justin Jefferson",
+        "Position": "WR",
+        "Projected Points": 252,
+        "ID": "6794"
+    },
+    {
+        "Name": "Kaleb Johnson",
+        "Position": "RB",
+        "Projected Points": 233,
+        "ID": "12504"
+    },
+    {
+        "Name": "Keenan Allen",
+        "Position": "WR",
+        "Projected Points": 191,
+        "ID": "1479"
+    },
+    {
+        "Name": "Kenneth Walker",
+        "Position": "RB",
+        "Projected Points": 229,
+        "ID": "8151"
+    },
+    {
+        "Name": "Keon Coleman",
+        "Position": "WR",
+        "Projected Points": 192,
+        "ID": "11637"
+    },
+    {
+        "Name": "Khalil Shakir",
+        "Position": "WR",
+        "Projected Points": 192,
+        "ID": "8134"
+    },
+    {
+        "Name": "Kyle Pitts",
+        "Position": "TE",
+        "Projected Points": 196,
+        "ID": "7553"
+    },
+    {
+        "Name": "Kyler Murray",
+        "Position": "QB",
+        "Projected Points": 368,
+        "ID": "5849"
+    },
+    {
+        "Name": "Kyren Williams",
+        "Position": "RB",
+        "Projected Points": 181,
+        "ID": "8150"
+    },
+    {
+        "Name": "Ladd McConkey",
+        "Position": "WR",
+        "Projected Points": 183,
+        "ID": "11635"
+    },
+    {
+        "Name": "Lamar Jackson",
+        "Position": "QB",
+        "Projected Points": 347,
+        "ID": "4881"
+    },
+    {
+        "Name": "Luther Burden",
+        "Position": "WR",
+        "Projected Points": 220,
+        "ID": "12519"
+    },
+    {
+        "Name": "Malik Nabers",
+        "Position": "WR",
+        "Projected Points": 250,
+        "ID": "11632"
+    },
+    {
+        "Name": "Mark Andrews",
+        "Position": "TE",
+        "Projected Points": 194,
+        "ID": "5012"
+    },
+    {
+        "Name": "Marvin Harrison",
+        "Position": "WR",
+        "Projected Points": 175,
+        "ID": "11628"
+    },
+    {
+        "Name": "Marvin Mims",
+        "Position": "WR",
+        "Projected Points": 183,
+        "ID": "9494"
+    },
+    {
+        "Name": "Mason Taylor",
+        "Position": "TE",
+        "Projected Points": 189,
+        "ID": "12498"
+    },
+    {
+        "Name": "Matthew Golden",
+        "Position": "WR",
+        "Projected Points": 285,
+        "ID": "12501"
+    },
+    {
+        "Name": "Michael Pittman",
+        "Position": "WR",
+        "Projected Points": 253,
+        "ID": "6819"
+    },
+    {
+        "Name": "Mike Evans",
+        "Position": "WR",
+        "Projected Points": 189,
+        "ID": "2216"
+    },
+    {
+        "Name": "MIN",
+        "Position": "DEF",
+        "Projected Points": 180,
+        "ID": "MIN"
+    },
+    {
+        "Name": "Najee Harris",
+        "Position": "RB",
+        "Projected Points": 185,
+        "ID": "7528"
+    },
+    {
+        "Name": "NE",
+        "Position": "DEF",
+        "Projected Points": 120,
+        "ID": "NE"
+    },
+    {
+        "Name": "Nick Chubb",
+        "Position": "RB",
+        "Projected Points": 214,
+        "ID": "4988"
+    },
+    {
+        "Name": "Nico Collins",
+        "Position": "WR",
+        "Projected Points": 278,
+        "ID": "7569"
+    },
+    {
+        "Name": "NYG",
+        "Position": "DEF",
+        "Projected Points": 210,
+        "ID": "NYG"
+    },
+    {
+        "Name": "Omarion Hampton",
+        "Position": "RB",
+        "Projected Points": 222,
+        "ID": "12507"
+    },
+    {
+        "Name": "Patrick Mahomes",
+        "Position": "QB",
+        "Projected Points": 353,
+        "ID": "4046"
+    },
+    {
+        "Name": "PHI",
+        "Position": "DEF",
+        "Projected Points": 90,
+        "ID": "PHI"
+    },
+    {
+        "Name": "PIT",
+        "Position": "DEF",
+        "Projected Points": 170,
+        "ID": "PIT"
+    },
+    {
+        "Name": "Puka Nacua",
+        "Position": "WR",
+        "Projected Points": 263,
+        "ID": "9493"
+    },
+    {
+        "Name": "Rachaad White",
+        "Position": "RB",
+        "Projected Points": 196,
+        "ID": "8136"
+    },
+    {
+        "Name": "Rashee Rice",
+        "Position": "WR",
+        "Projected Points": 220,
+        "ID": "10229"
+    },
+    {
+        "Name": "Rashid Shaheed",
+        "Position": "WR",
+        "Projected Points": 162,
+        "ID": "8676"
+    },
+    {
+        "Name": "Rashod Bateman",
+        "Position": "WR",
+        "Projected Points": 172,
+        "ID": "7571"
+    },
+    {
+        "Name": "Rhamondre Stevenson",
+        "Position": "RB",
+        "Projected Points": 197,
+        "ID": "7611"
+    },
+    {
+        "Name": "Ricky Pearsall",
+        "Position": "WR",
+        "Projected Points": 281,
+        "ID": "11638"
+    },
+    {
+        "Name": "RJ Harvey",
+        "Position": "RB",
+        "Projected Points": 272,
+        "ID": "12489"
+    },
+    {
+        "Name": "Rome Odunze",
+        "Position": "WR",
+        "Projected Points": 180,
+        "ID": "11620"
+    },
+    {
+        "Name": "Sam LaPorta",
+        "Position": "TE",
+        "Projected Points": 190,
+        "ID": "10859"
+    },
+    {
+        "Name": "Saquon Barkley",
+        "Position": "RB",
+        "Projected Points": 279,
+        "ID": "4866"
+    },
+    {
+        "Name": "SEA",
+        "Position": "DEF",
+        "Projected Points": 200,
+        "ID": "SEA"
+    },
+    {
+        "Name": "SF",
+        "Position": "DEF",
+        "Projected Points": 170,
+        "ID": "SF"
+    },
+    {
+        "Name": "Skyy Moore",
+        "Position": "WR",
+        "Projected Points": 182,
+        "ID": "8168"
+    },
+    {
+        "Name": "Stefon Diggs",
+        "Position": "WR",
+        "Projected Points": 243,
+        "ID": "2449"
+    },
+    {
+        "Name": "T.J. Hockenson",
+        "Position": "TE",
+        "Projected Points": 187,
+        "ID": "5844"
+    },
+    {
+        "Name": "Tank Bigsby",
+        "Position": "RB",
+        "Projected Points": 178,
+        "ID": "9225"
+    },
+    {
+        "Name": "TB",
+        "Position": "DEF",
+        "Projected Points": 150,
+        "ID": "TB"
+    },
+    {
+        "Name": "Tee Higgins",
+        "Position": "WR",
+        "Projected Points": 176,
+        "ID": "6801"
+    },
+    {
+        "Name": "Terry McLaurin",
+        "Position": "WR",
+        "Projected Points": 252,
+        "ID": "5927"
+    },
+    {
+        "Name": "Tetairoa McMillan",
+        "Position": "WR",
+        "Projected Points": 219,
+        "ID": "12526"
+    },
+    {
+        "Name": "Theo Johnson",
+        "Position": "TE",
+        "Projected Points": 129,
+        "ID": "11597"
+    },
+    {
+        "Name": "Tony Pollard",
+        "Position": "RB",
+        "Projected Points": 181,
+        "ID": "5967"
+    },
+    {
+        "Name": "Travis Etienne",
+        "Position": "RB",
+        "Projected Points": 196,
+        "ID": "7543"
+    },
+    {
+        "Name": "Travis Hunter",
+        "Position": "WR",
+        "Projected Points": 250,
+        "ID": "12530"
+    },
+    {
+        "Name": "Travis Kelce",
+        "Position": "TE",
+        "Projected Points": 161,
+        "ID": "1466"
+    },
+    {
+        "Name": "Tre' Harris",
+        "Position": "WR",
+        "Projected Points": 283,
+        "ID": "12509"
+    },
+    {
+        "Name": "TreVeyon Henderson",
+        "Position": "RB",
+        "Projected Points": 272,
+        "ID": "12529"
+    },
+    {
+        "Name": "Trevor Etienne",
+        "Position": "RB",
+        "Projected Points": 182,
+        "ID": "12531"
+    },
+    {
+        "Name": "Trevor Lawrence",
+        "Position": "QB",
+        "Projected Points": 389,
+        "ID": "7523"
+    },
+    {
+        "Name": "Trey Benson",
+        "Position": "RB",
+        "Projected Points": 174,
+        "ID": "11589"
+    },
+    {
+        "Name": "Trey McBride",
+        "Position": "TE",
+        "Projected Points": 179,
+        "ID": "8130"
+    },
+    {
+        "Name": "Tucker Kraft",
+        "Position": "TE",
+        "Projected Points": 139,
+        "ID": "9484"
+    },
+    {
+        "Name": "Tyjae Spears",
+        "Position": "RB",
+        "Projected Points": 250,
+        "ID": "9508"
+    },
+    {
+        "Name": "Tyler Bass",
+        "Position": "K",
+        "Projected Points": 159,
+        "ID": "7042"
+    },
+    {
+        "Name": "Tyler Loop",
+        "Position": "K",
+        "Projected Points": 150,
+        "ID": "12711"
+    },
+    {
+        "Name": "Tyler Warren",
+        "Position": "TE",
+        "Projected Points": 209,
+        "ID": "12518"
+    },
+    {
+        "Name": "Tyreek Hill",
+        "Position": "WR",
+        "Projected Points": 219,
+        "ID": "3321"
+    },
+    {
+        "Name": "Tyrone Tracy",
+        "Position": "RB",
+        "Projected Points": 216,
+        "ID": "11655"
+    },
+    {
+        "Name": "WAS",
+        "Position": "DEF",
+        "Projected Points": 134,
+        "ID": "WAS"
+    },
+    {
+        "Name": "Wil Lutz",
+        "Position": "K",
+        "Projected Points": 141,
+        "ID": "3678"
+    },
+    {
+        "Name": "Will Shipley",
+        "Position": "RB",
+        "Projected Points": 271,
+        "ID": "11577"
+    },
+    {
+        "Name": "Woody Marks",
+        "Position": "RB",
+        "Projected Points": 234,
+        "ID": "12474"
+    },
+    {
+        "Name": "Xavier Worthy",
+        "Position": "WR",
+        "Projected Points": 279,
+        "ID": "11624"
+    },
+    {
+        "Name": "Zach Charbonnet",
+        "Position": "RB",
+        "Projected Points": 276,
+        "ID": "9753"
+    },
+    {
+        "Name": "Zach Ertz",
+        "Position": "TE",
+        "Projected Points": 80,
+        "ID": "1339"
+    },
+    {
+        "Name": "Zay Flowers",
+        "Position": "WR",
+        "Projected Points": 235,
+        "ID": "9997"
+    }
+]
