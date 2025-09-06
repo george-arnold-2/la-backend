@@ -644,7 +644,7 @@
     {
         "Name": "Kaleb Johnson",
         "Position": "RB",
-        "Projected Points": 233,
+        "Projected Points": 150,
         "ID": "12504"
     },
     {
@@ -974,13 +974,13 @@
     {
         "Name": "Tre' Harris",
         "Position": "WR",
-        "Projected Points": 283,
+        "Projected Points": 160,
         "ID": "12509"
     },
     {
         "Name": "TreVeyon Henderson",
         "Position": "RB",
-        "Projected Points": 272,
+        "Projected Points": 180,
         "ID": "12529"
     },
     {
@@ -1096,5 +1096,42 @@
         "Position": "WR",
         "Projected Points": 235,
         "ID": "9997"
-    }
+    },
+    {
+        "Name": "Riley Patterson",
+        "Position": "K",
+        "Projected Points": 166,
+        "ID": "7922"
+    },
+    { "Name": "Younghoe Koo", "Position": "K", "Projected Points": 147 },
+    { "Name": "Matthew Wright", "Position": "K", "Projected Points": 152 },
+    { "Name": "Cairo Santos", "Position": "K", "Projected Points": 173 },
+    { "Name": "Dustin Hopkins", "Position": "K", "Projected Points": 167 },
+    { "Name": "Brandon McManus", "Position": "K", "Projected Points": 168 },
+    {
+        "Name": "Ka'imi Fairbairn",
+        "Position": "K",
+        "Projected Points": 153,
+        "ID": "3451"
+    },
+    { "Name": "Spencer Shrader", "Position": "K", "Projected Points": 141 },
+    { "Name": "Harrison Butker", "Position": "K", "Projected Points": 146 },
+    { "Name": "Daniel Carlson", "Position": "K", "Projected Points": 163 },
+    { "Name": "Joshua Karty", "Position": "K", "Projected Points": 172 },
+    { "Name": "Jason Sanders", "Position": "K", "Projected Points": 151 },
+    { "Name": "Will Reichard", "Position": "K", "Projected Points": 134 },
+    { "Name": "Andres Borregales", "Position": "K", "Projected Points": 165 },
+    { "Name": "Blake Grupe", "Position": "K", "Projected Points": 142 },
+    { "Name": "Graham Gano", "Position": "K", "Projected Points": 169 },
+    { "Name": "Nick Folk", "Position": "K", "Projected Points": 137 },
+    {
+        "Name": "Jake Elliott",
+        "Position": "K",
+        "Projected Points": 155,
+        "ID": "4195"
+    },
+    { "Name": "Jake Moody", "Position": "K", "Projected Points": 145 },
+    { "Name": "Jason Myers", "Position": "K", "Projected Points": 158 },
+    { "Name": "Joey Slye", "Position": "K", "Projected Points": 164 },
+    { "Name": "Matt Gay", "Position": "K", "Projected Points": 149 }
 ]
